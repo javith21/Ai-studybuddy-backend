@@ -33,5 +33,4 @@ AI StudyBuddy uses the Google Gemini AI API to turn study material into learning
 3. Run `npm start`
 
 ## 📄 Presentation
-[Click here to download the Presentation](LearnMate_AI_StudyBuddy_Presentation.pptx)
 [Download the Presentation](LearnMate_AI_StudyBuddy_Presentation.pptx)[Click here to download the Presentation](LearnMate_AI_StudyBuddy_Presentation.pptx)
